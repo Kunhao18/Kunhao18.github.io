@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Kunhao18
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Kunhao18/image-to-poetry
+  - Kunhao18/calligraphy-stroke-order-teaching-system
+  - Kunhao18/chinese-couplets-generation
+  - Kunhao18/extract-narratives-from-stories
+  - Kunhao18/narrative-graph-annotator
+  - Kunhao18/offload-simulation
