@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer, <a href="https://www.linkedin.com/company/huawei-technologies-research-development-uk-ltd">Huawei Technologies Research & Development (UK) Ltd.</a>
+subtitle: Research Engineer, Huawei UK Research Centre
 
 profile:
   align: right
