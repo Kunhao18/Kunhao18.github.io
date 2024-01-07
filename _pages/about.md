@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm a research engineer working on AI agent in the Huawei London Research Centre and I'm currently looking for a PhD position about language and cognition.
+Hi there! I'm a research engineer working on AI agent in the Huawei UK Research Centre and I'm currently looking for a PhD position about language and cognition.
 
 I just finished my master program MSc Speech and Language Processing last year in the University of Edinburgh, where I learnt concretly the theories and techniques about NLP, and more importantly, discovered the potential in cognitive science. Before, I did a 4-year undergraduate study about computer science and intelligence science in the Beijing University of Posts Telecommunications, where I acquired solid programming capabilities and foundation of AI theories. 
 
