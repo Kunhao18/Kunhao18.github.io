@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! I'm a research engineer working on AI agent in the Huawei UK Research Centre and I'm currently looking for a PhD position about language and cognition.
 
-I just finished my master program MSc Speech and Language Processing last year in the University of Edinburgh, where I learnt concretly the theories and techniques about NLP, and more importantly, discovered the potential in cognitive science. Before, I did a 4-year undergraduate study about computer science and intelligence science in the Beijing University of Posts Telecommunications, where I acquired solid programming capabilities and foundation of AI theories. 
+I just finished my master program MSc Speech and Language Processing last year in the [University of Edinburgh](https://www.ed.ac.uk/), where I learnt concretly the theories and techniques about NLP, and more importantly, realized the potential in cognitive science. Before, I did a 4-year undergraduate study about computer science and intelligence science in the [Beijing University of Posts Telecommunications](https://www.bupt.edu.cn/), where I acquired solid programming capabilities and foundation of AI theories. 
 
-My research interest lies in the human cognitive process, the interaction between cognition and language, and how to implement cognitive models computationally in AI system to enhance its intelligence or make it more humanoid.
+My research interest lies in <u>the human cognitive process</u>, <u>the interaction between cognition and language</u>, <u>and how to implement cognitive models computationally in AI system</u> to enhance its intelligence or make it more humanoid.
 
 Welcome to check my blogs here [KunH's Blog](http://blog.kunhao.site) 😊
